@@ -1,0 +1,21 @@
+# --------------------------------------------------
+# Author: Marcos Castaneda (www.mcast.me)
+# --------------------------------------------------
+
+# Graphics:
+- Scene background (self)
+- Racetrack (self)
+- Barricades (self)
+- Police car (self)
+
+# Creative Commons Attribution License
+
+# Sprites:
+- car_red.png (opengameart.org)
+- obstacle_cone.png (opengameart.org)
+
+# Sounds:
+- sound_carstart.mp3 : xtrgamr @ freesound.org
+- sound_obstaclehit.mp3 : mickyman5000 @ freesound.org
+- sound_obstacle.mp3 : Ekuhvielle @ freesound.org
+- sound_police.mp3 : SFXsource.com @ freesound.org
